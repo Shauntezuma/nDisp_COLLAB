@@ -29,6 +29,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
