@@ -1,0 +1,1302 @@
+﻿Log file open, 02/02/21 07:12:00
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: nDispCollabPrj
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.233899
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin nDisplay
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin TextureShare
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogTextureShare: TextureShare module has been instantiated
+LogTextureShare: TextureShare module has started
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen Threadripper 3960X 24-Core Processor , GPU: NVIDIA RTX A6000
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Engine.ini]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[r.SceneRenderTargetResizeMethod:2]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[vr.AllowMotionBlurInVR:1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Engine.ini]
+[2021.02.02-12.12.00:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Engine.ini]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Engine.ini]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.02.02-12.12.00:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Engine.ini]
+[2021.02.02-12.12.00:776][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Engine.ini]
+[2021.02.02-12.12.00:798][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:798][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.02-12.12.00:798][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.02-12.12.00:798][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:798][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.02-12.12.00:798][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:798][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.02-12.12.00:799][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.02-12.12.00:800][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.02-12.12.00:800][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.02-12.12.00:800][  0]LogHAL: Display: Platform has ~ 64 GB [68602208256 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.02-12.12.00:800][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.02-12.12.00:800][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.02-12.12.00:800][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Scalability.ini]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.02-12.12.00:801][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Config/Windows/Engine.ini]
+[2021.02.02-12.12.00:801][  0]LogInit: Computer: MSS-SCFFAA
+[2021.02.02-12.12.00:801][  0]LogInit: User: scffaa
+[2021.02.02-12.12.00:801][  0]LogInit: CPU Page size=4096, Cores=24
+[2021.02.02-12.12.00:801][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.02-12.12.00:801][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2021.02.02-12.12.00:801][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.02-12.12.00:801][  0]LogMemory: Process Physical Memory: 150.58 MB used, 150.58 MB peak
+[2021.02.02-12.12.00:801][  0]LogMemory: Process Virtual Memory: 139.17 MB used, 139.17 MB peak
+[2021.02.02-12.12.00:801][  0]LogMemory: Physical Memory: 14666.53 MB used,  50757.64 MB free, 65424.16 MB total
+[2021.02.02-12.12.00:801][  0]LogMemory: Virtual Memory: 134163080.00 MB used,  54644.21 MB free, 134217728.00 MB total
+[2021.02.02-12.12.00:806][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.02-12.12.00:830][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.02-12.12.00:830][  0]LogInit: Using OS detected language (en-US).
+[2021.02.02-12.12.00:830][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.02-12.12.00:834][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.02-12.12.00:984][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.02-12.12.00:997][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.02-12.12.01:040][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.02-12.12.01:040][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.02-12.12.01:176][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.02-12.12.01:176][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.02-12.12.01:176][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.02-12.12.01:274][  0]LogD3D11RHI:    0. 'NVIDIA RTX A6000' (Feature Level 11_0)
+[2021.02.02-12.12.01:274][  0]LogD3D11RHI:       48571/0/32712 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.02.02-12.12.01:276][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.02-12.12.01:276][  0]LogD3D11RHI:       0/0/32712 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.02-12.12.01:276][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.02-12.12.01:285][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.02-12.12.01:285][  0]LogD3D11RHI:     GPU DeviceId: 0x2230 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.02-12.12.01:285][  0]LogWindows: EnumDisplayDevices:
+[2021.02.02-12.12.01:285][  0]LogWindows:    0. 'NVIDIA RTX A6000' (P:1 D:1)
+[2021.02.02-12.12.01:285][  0]LogWindows:    1. 'NVIDIA RTX A6000' (P:0 D:1)
+[2021.02.02-12.12.01:285][  0]LogWindows:    2. 'NVIDIA RTX A6000' (P:0 D:0)
+[2021.02.02-12.12.01:286][  0]LogWindows:    3. 'NVIDIA RTX A6000' (P:0 D:0)
+[2021.02.02-12.12.01:286][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.02-12.12.01:286][  0]LogD3D11RHI:     Adapter Name: NVIDIA RTX A6000
+[2021.02.02-12.12.01:286][  0]LogD3D11RHI:   Driver Version: 460.89 (internal:27.21.14.6089, unified:460.89)
+[2021.02.02-12.12.01:286][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.02.02-12.12.01:286][  0]LogRHI: Texture pool is 33999 MB (70% of 48571 MB)
+[2021.02.02-12.12.01:354][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.02-12.12.01:354][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.02-12.12.01:354][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.02-12.12.01:369][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.02-12.12.01:374][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.02.02-12.12.01:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.02-12.12.01:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.02-12.12.01:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.02-12.12.01:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.02-12.12.01:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.02-12.12.01:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.02-12.12.01:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.02-12.12.01:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.02-12.12.01:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.02-12.12.01:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.02-12.12.01:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.02-12.12.01:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.02-12.12.01:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.02-12.12.01:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.02.02-12.12.01:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.02.02-12.12.01:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.02.02-12.12.01:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.02.02-12.12.01:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.02-12.12.01:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.02-12.12.01:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.02-12.12.01:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.02-12.12.01:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.02-12.12.01:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.02-12.12.01:873][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.02-12.12.01:880][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.02-12.12.01:941][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.02.02-12.12.01:941][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Intermediate/Shaders/WorkingDirectory/20532/).
+[2021.02.02-12.12.01:941][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/scffaa/AppData/Local/Temp/UnrealShaderWorkingDir/24E2D7A5465CD851605187A258ABA179/'.
+[2021.02.02-12.12.01:941][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.02-12.12.01:941][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.02-12.12.02:574][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.02-12.12.02:610][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/scffaa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.02-12.12.02:610][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/scffaa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.02.02-12.12.02:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.02-12.12.02:610][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.02-12.12.02:610][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.02-12.12.02:610][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.02-12.12.02:621][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.02-12.12.02:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.02-12.12.02:621][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.02-12.12.02:628][  0]LogDerivedDataCache: Speed tests for C:/Users/scffaa/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.02.02-12.12.02:628][  0]LogDerivedDataCache: Display: Performance to C:/Users/scffaa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=842.03MBs, RandomWriteSpeed=164.16MBs. Assigned SpeedClass 'Local'
+[2021.02.02-12.12.02:629][  0]LogDerivedDataCache: Using Local data cache path C:/Users/scffaa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.02-12.12.02:629][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.02-12.12.02:629][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.02-12.12.02:667][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.02-12.12.02:668][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.02-12.12.02:688][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.02.02-12.12.02:892][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.02-12.12.02:892][  0]LogInit: Active device profile: [0000029E0C061B00][0000029E0BCA1080 49] Windows
+[2021.02.02-12.12.02:892][  0]LogInit: Profiles: [0000029E0C061B00][0000029E0BCA1080 49] Windows, [0000029E0BFF0D00][0000029E0BCA9200 49] WindowsNoEditor, [0000029E0C060C00][0000029E0BCAD380 49] WindowsServer, [0000029E0BFF2900][0000029E0BCC5500 49] WindowsClient, [0000029E0C062000][0000029E0BCA5640 49] IOS, [0000029E0BFF3600][0000029E0BCC9780 49] iPadAir, [0000029E0C062E00][0000029E0BCD18C0 49] iPadAir2, [0000029E0CE0AD00][0000029E0BCDDB40 49] IPadPro, [0000029E0CE0AE00][0000029E0BCD5B80 49] iPadAir3, [0000029E0C061300][0000029E0BCE1D00 49] iPadAir4, [0000029E0CE0A700][0000029E0BCF01C0 49] iPadMini2, [0000029E0C063200][0000029E0BCF4340 49] iPadMini3, [0000029E0CE09600][0000029E0BCF84C0 49] iPadMini4, [0000029E0C061100][0000029E0BCFC640 49] iPadMini5, [0000029E0CE4A600][0000029E0BD04900 49] iPhone6, [0000029E0CE4A700][0000029E0BD00940 49] iPodTouch6, [0000029E0CE0B500][0000029E0BD0CC00 49] iPhone7, [0000029E0CE0B600][0000029E0BD08C40 49] iPodTouch7, [0000029E0CE4BF00][0000029E0BD10DC0 49] iPhone5S, [0000029E0CE0A300][0000029E0BD14F40 49] iPhone6Plus, [0000029E0CE49400][0000029E0BD190C0 49] iPhone6S, [0000029E0CE09100][0000029E0BD3D240 49] iPhone6SPlus, [0000029E0CE48300][0000029E0BD413C0 49] iPhone7Plus, [0000029E0CE08B00][0000029E0BD45540 49] iPhoneSE, [0000029E0CE4B200][0000029E0BCD9680 49] iPhone8, [0000029E0CE0A600][0000029E0BD497C0 49] iPhone8Plus, [0000029E0CE49900][0000029E0BD4D900 49] iPhoneX, [0000029E0CE0A100][0000029E0BD51A40 49] iPhoneXS, [0000029E0CE4A300][0000029E0BD59BC0 49] iPhoneXSMax, [0000029E0CE08800][0000029E0BD5DD40 49] iPhoneXR, [0000029E0CE49B00][0000029E0BD8C200 49] iPhone11, [0000029E0CE08C00][0000029E0BD90380 49] iPhone11Pro, [0000029E0CE4B300][0000029E0BD94500 49] iPhone11ProMax, [0000029E0CE08100][0000029E0BD98680 49] iPhoneSE2, [0000029E0CE48500][0000029E0BD9C800 49] iPhone12Mini, [0000029E0CE0BE00][0000029E0BDA0980 49] iPhone12, [0000029E0CE4AB00][0000029E0BDA4B00 49] iPhone12Pro, [0000029E0CE09800][0000029E0BDA8C80 49] iPhone12ProMax, [0000029E0CE49D00][0000029E0BDACE00 49] iPadPro105, [0000029E0BFF1900][0000029E0BDB0F80 49] iPadPro129, [0000029E0CE09C00][0000029E0BDB5100 49] iPadPro97, [0000029E0BFF0900][0000029E0BDB9280 49] iPadPro2_129, [0000029E0CE09400][0000029E0BDBD400 49] iPad5, [0000029E0BFF1F00][0000029E0BDC1580 49] iPad6, [0000029E0CE0B200][0000029E0BDC5700 49] iPad7, [0000029E0BFF3400][0000029E0BD55840 49] iPad8, [0000029E0CE0A400][0000029E0BDC9980 49] iPadPro11, [0000029E0CE48F00][0000029E0BDCDAC0 49] iPadPro2_11, [0000029E0BFF2000][0000029E0BDD5C40 49] iPadPro3_129, [0000029E0CE4BC00][0000029E0BDD8100 49] iPadPro4_129, [0000029E0BFF1700][0000029E0BDDC280 49] AppleTV, [0000029E0CE49F00][0000029E0BDE0400 49] AppleTV4K, [0000029E0BFF2B00][0000029E0BDE4580 49] TVOS, [0000029E0CE09200][0000029E0BDE8700 49] Mac, [0000029E0BFF2700][0000029E0BDEC880 49] MacClient, [0000029E0CE08600][0000029E0BDF0A00 49] MacNoEditor, [0000029E0BFF3300][0000029E0BDF4B80 49] MacServer, [0000029E0CE09F00][0000029E0BDF8D00 49] Linux, [0000029E0BFF1E00][0000029E0BDFCE80 49] LinuxNoEditor, [0000029E0CE09E00][0000029E0BE01000 49] LinuxAArch64NoEditor, [0000029E0BFF2E00][0000029E0BE05180 49] LinuxClient, [0000029E0CE08300][0000029E0BE09300 49] LinuxAArch64Client, [0000029E0BFF0E00][0000029E0BE0D480 49] LinuxServer, [0000029E0CE09D00][0000029E0BE11600 49] LinuxAArch64Server, [0000029E0BFF3800][0000029E0BE15780 49] Android, [0000029E0CE0AA00][0000029E0BDD18C0 49] Android_Low, [0000029E0BFF1100][0000029E0BE19A00 49] Android_Mid, [0000029E0CE08A00][0000029E0BE1DB40 49] Android_High, [0000029E0BFF1C00][0000029E0BE25CC0 49] Android_Default, [0000029E0CE0A500][0000029E0BE28180 49] Android_Adreno4xx, [0000029E0BFF3500][0000029E0BE2C300 49] Android_Adreno5xx_Low, [0000029E0CE08200][0000029E0BE30480 49] Android_Adreno5xx, [0000029E0BFF2A00][0000029E0BE34600 49] Android_Adreno6xx, [0000029E0CE0B000][0000029E0BE38780 49] Android_Adreno6xx_Vulkan, [0000029E0BFF1B00][0000029E0BE3C900 49] Android_Mali_T6xx, [0000029E0CE0BF00][0000029E0BE40A80 49] Android_Mali_T7xx, [0000029E0BFF1400][0000029E0BE44C00 49] Android_Mali_T8xx, [0000029E0CE0A900][0000029E0BE48D80 49] Android_Mali_G71, [0000029E0BFF3B00][0000029E0BE4CF00 49] Android_Mali_G72, [0000029E0CE09A00][0000029E0BE51080 49] Android_Mali_G72_Vulkan, [0000029E0BFF3F00][0000029E0BE55200 49] Android_Mali_G76, [0000029E0CE09B00][0000029E0BE59380 49] Android_Mali_G76_Vulkan, [0000029E0BFF0F00][0000029E0BE5D500 49] Android_Mali_G77, [0000029E0CE09900][0000029E0BE61680 49] Android_Mali_G77_Vulkan, [0000029E0BFF2300][0000029E0BE65800 49] Android_Vulkan_SM5, [0000029E0CE0AF00][0000029E0BE21940 49] Android_PowerVR_G6xxx, [0000029E0BFF3000][0000029E0BE69A80 49] Android_PowerVR_GT7xxx, [0000029E0CE08900][0000029E0BE6DBC0 49] Android_PowerVR_GE8xxx, [0000029E0BFF0500][0000029E0BE71D00 49] Android_PowerVR_GM9xxx, [0000029E0CE0B700][0000029E0BE781C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000029E0BFF2C00][0000029E0BE7C340 49] Android_TegraK1, [0000029E0CE0AC00][0000029E0BE804C0 49] Android_Unknown_Vulkan, [0000029E0BFF1A00][0000029E0BE84640 49] Lumin, [0000029E0CE49E00][0000029E0BE887C0 49] Lumin_Desktop, [0000029E0C060400][0000029E0BE8C940 49] HoloLens, 
+[2021.02.02-12.12.02:981][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.02-12.12.02:981][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.02-12.12.02:981][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.02-12.12.02:981][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.02-12.12.02:981][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.02-12.12.03:013][  0]LogNetVersion: nDispCollabPrj 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 161977359)
+[2021.02.02-12.12.03:369][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.037921 seconds
+[2021.02.02-12.12.03:375][  0]LogUObjectArray: 16834 objects as part of root set at end of initial load.
+[2021.02.02-12.12.03:375][  0]LogUObjectAllocator: 4212000 out of 0 bytes used by permanent object pool.
+[2021.02.02-12.12.03:375][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.02-12.12.03:627][  0]LogPython: Using Python 3.7.7
+[2021.02.02-12.12.04:219][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.02-12.12.04:222][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.02-12.12.04:731][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.02-12.12.04:752][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.02-12.12.04:752][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterModule: Instantiating subsystem managers...
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_mono
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_mono
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registering factory for rendering device type: quad_buffer_stereo
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registered factory for rendering device type: quad_buffer_stereo
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_side_by_side
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_side_by_side
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registering factory for rendering device type: dc_dev_top_bottom
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registered factory for rendering device type: dc_dev_top_bottom
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registering factory for synchronization policy: none
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registered factory for syncrhonization policy: none
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registering factory for synchronization policy: ethernet
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registered factory for syncrhonization policy: ethernet
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registering factory for synchronization policy: nvidia
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterRender: Registered factory for syncrhonization policy: nvidia
+[2021.02.02-12.12.04:817][  0]LogDisplayClusterModule: DisplayCluster module has been started
+[2021.02.02-12.12.04:838][  0]LogDisplayClusterProjection: Projection module has been instantiated
+[2021.02.02-12.12.04:838][  0]LogDisplayClusterProjection: Projection module startup
+[2021.02.02-12.12.04:838][  0]LogDisplayClusterProjection: Registering <camera> projection policy factory...
+[2021.02.02-12.12.04:838][  0]LogDisplayClusterRender: Registering factory for projection type: camera
+[2021.02.02-12.12.04:838][  0]LogDisplayClusterRender: Registered factory for projection type: camera
+[2021.02.02-12.12.04:838][  0]LogDisplayClusterProjection: Registering <simple> projection policy factory...
+[2021.02.02-12.12.04:838][  0]LogDisplayClusterRender: Registering factory for projection type: simple
+[2021.02.02-12.12.04:838][  0]LogDisplayClusterRender: Registered factory for projection type: simple
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterProjection: Registering <mpcdi> projection policy factory...
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registering factory for projection type: mpcdi
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registered factory for projection type: mpcdi
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterProjection: Registering <mesh> projection policy factory...
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registering factory for projection type: mesh
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registered factory for projection type: mesh
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterProjection: Registering <easyblend> projection policy factory...
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registering factory for projection type: easyblend
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registered factory for projection type: easyblend
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterProjection: Registering <vioso> projection policy factory...
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registering factory for projection type: vioso
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registered factory for projection type: vioso
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterProjection: Registering <manual> projection policy factory...
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registering factory for projection type: manual
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registered factory for projection type: manual
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterProjection: Registering <domeprojection> projection policy factory...
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registering factory for projection type: domeprojection
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterRender: Registered factory for projection type: domeprojection
+[2021.02.02-12.12.04:839][  0]LogDisplayClusterProjection: Projection module has started
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterPostprocess: Postprocess module has been instantiated
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterPostprocess: Postprocess module startup
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterPostprocess: Registering <OutputRemap> projection policy factory...
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterRender: Registering post-process operation: OutputRemap
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterRender: Registered post-process operation: OutputRemap
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterPostprocess: Registering <TextureShare> projection policy factory...
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterRender: Registering post-process operation: TextureShare
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterRender: Registered post-process operation: TextureShare
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterPostprocess: Registering <D3D12CrossGPU> projection policy factory...
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterRender: Registering post-process operation: D3D12CrossGPU
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterRender: Registered post-process operation: D3D12CrossGPU
+[2021.02.02-12.12.04:843][  0]LogDisplayClusterPostprocess: Postprocess module has started
+[2021.02.02-12.12.04:847][  0]LogPicpProjection: Projection module has been instantiated
+[2021.02.02-12.12.04:847][  0]LogPicpProjection: Projection module startup
+[2021.02.02-12.12.04:847][  0]LogPicpProjection: Registering <picp_mpcdi> projection policy factory...
+[2021.02.02-12.12.04:847][  0]LogDisplayClusterRender: Registering factory for projection type: picp_mpcdi
+[2021.02.02-12.12.04:847][  0]LogDisplayClusterRender: Registered factory for projection type: picp_mpcdi
+[2021.02.02-12.12.04:847][  0]LogPicpProjection: Registering <picp_mesh> projection policy factory...
+[2021.02.02-12.12.04:847][  0]LogDisplayClusterRender: Registering factory for projection type: picp_mesh
+[2021.02.02-12.12.04:847][  0]LogDisplayClusterRender: Registered factory for projection type: picp_mesh
+[2021.02.02-12.12.04:847][  0]LogPicpProjection: Projection module has started
+[2021.02.02-12.12.04:917][  0]SourceControl: Source control is disabled
+[2021.02.02-12.12.04:917][  0]SourceControl: Source control is disabled
+[2021.02.02-12.12.04:920][  0]SourceControl: Source control is disabled
+[2021.02.02-12.12.04:923][  0]SourceControl: Source control is disabled
+[2021.02.02-12.12.04:932][  0]SourceControl: Source control is disabled
+[2021.02.02-12.12.04:934][  0]LogUProjectInfo: Found projects:
+[2021.02.02-12.12.04:942][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.02-12.12.04:942][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.02-12.12.04:968][  0]LogCollectionManager: Loaded 0 collections in 0.001467 seconds
+[2021.02.02-12.12.05:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Collections/' took 0.00s
+[2021.02.02-12.12.05:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Developers/scffaa/Collections/' took 0.00s
+[2021.02.02-12.12.05:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Collections/' took 0.00s
+[2021.02.02-12.12.05:221][  0]LogDisplayClusterInputAnalog: nDisplay input controller has been initialized <Analog>
+[2021.02.02-12.12.05:275][  0]LogDisplayClusterModule: Initializing subsystems to editor operation mode
+[2021.02.02-12.12.05:275][  0]LogDisplayClusterEditorEngine: DisplayCluster module has been initialized
+[2021.02.02-12.12.05:275][  0]LogEngine: Initializing Engine...
+[2021.02.02-12.12.05:276][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.02-12.12.05:276][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.02-12.12.05:352][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.02-12.12.05:362][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.02-12.12.05:364][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.02-12.12.05:367][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.02-12.12.05:368][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.02-12.12.05:368][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.02-12.12.05:368][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.02-12.12.05:368][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.02-12.12.05:368][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.02-12.12.05:368][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.02-12.12.05:368][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.02-12.12.05:368][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.02-12.12.05:368][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.02-12.12.05:368][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.02-12.12.05:368][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.02-12.12.05:386][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.02-12.12.05:386][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.02-12.12.05:408][  0]LogAudioMixer: Display: Using Audio Device Line (3- Steinberg UR12 )
+[2021.02.02-12.12.05:410][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.02-12.12.05:411][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.02-12.12.05:411][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.02-12.12.05:412][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.02-12.12.05:412][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.02-12.12.05:412][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.02-12.12.05:413][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.02-12.12.05:413][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.02-12.12.05:413][  0]LogInit: FAudioDevice initialized.
+[2021.02.02-12.12.05:413][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.02-12.12.05:413][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.02-12.12.05:456][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/scffaa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.02-12.12.05:458][  0]LogInit: Texture streaming: Enabled
+[2021.02.02-12.12.05:469][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.02.02-12.12.05:472][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.02-12.12.05:472][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.02-12.12.05:473][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.02-12.12.05:500][  0]LogInit: Transaction tracking system initialized
+[2021.02.02-12.12.05:520][  0]BlueprintLog: New page: Editor Load
+[2021.02.02-12.12.05:582][  0]LocalizationService: Localization service is disabled
+[2021.02.02-12.12.05:601][  0]TimingProfiler: Initialize
+[2021.02.02-12.12.05:601][  0]TimingProfiler: OnSessionChanged
+[2021.02.02-12.12.05:601][  0]LoadingProfiler: Initialize
+[2021.02.02-12.12.05:601][  0]LoadingProfiler: OnSessionChanged
+[2021.02.02-12.12.05:601][  0]NetworkingProfiler: Initialize
+[2021.02.02-12.12.05:601][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.02-12.12.05:601][  0]MemoryProfiler: Initialize
+[2021.02.02-12.12.05:601][  0]MemoryProfiler: OnSessionChanged
+[2021.02.02-12.12.05:658][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.02-12.12.05:658][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.02-12.12.05:719][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.02-12.12.05:719][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.02-12.12.05:754][  0]LogFileCache: Scanning file cache for directory 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/' took 0.01s
+[2021.02.02-12.12.05:928][  0]SourceControl: Source control is disabled
+[2021.02.02-12.12.05:928][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.012
+[2021.02.02-12.12.05:928][  0]Cmd: MAP LOAD FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.02-12.12.05:928][  0]LightingResults: New page: Lighting Build
+[2021.02.02-12.12.05:930][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.02-12.12.05:930][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.02-12.12.05:930][  0]MapCheck: New page: Map Check
+[2021.02.02-12.12.05:930][  0]LightingResults: New page: Lighting Build
+[2021.02.02-12.12.05:940][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.02.02-12.12.05:942][  0]LogLinker: Warning: Asset '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.02.02-12.12.06:026][  0]LogDisplayClusterConfiguration: TXT config: C:/Program Files/Epic Games/UE_4.26/Templates/TP_nDisplayBP/Content/ExampleConfigs/wall_curved_3x2.cfg
+[2021.02.02-12.12.06:026][  0]LogDisplayClusterConfiguration: Parsing config file: C:/Program Files/Epic Games/UE_4.26/Templates/TP_nDisplayBP/Content/ExampleConfigs/wall_curved_3x2.cfg
+[2021.02.02-12.12.06:026][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:026][  0]LogDisplayClusterConfiguration: Found info node: [[] + version=23]
+[2021.02.02-12.12.06:026][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found cluster node: [[] + id=node_1_up, window=wnd_1_up, addr=192.168.1.1, master=true, port_cs=41001, port_ss=41002, port_ce=41003, port_ceb=41004, sound=true]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found cluster node: [[] + id=node_1_dn, window=wnd_1_dn, addr=192.168.1.1, master=false, port_cs=41001, port_ss=41002, port_ce=41003, port_ceb=41004, sound=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found cluster node: [[] + id=node_2_up, window=wnd_2_up, addr=192.168.1.2, master=false, port_cs=41001, port_ss=41002, port_ce=41003, port_ceb=41004, sound=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found cluster node: [[] + id=node_2_dn, window=wnd_2_dn, addr=192.168.1.2, master=false, port_cs=41001, port_ss=41002, port_ce=41003, port_ceb=41004, sound=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found cluster node: [[] + id=node_3_up, window=wnd_3_up, addr=192.168.1.3, master=false, port_cs=41001, port_ss=41002, port_ce=41003, port_ceb=41004, sound=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found cluster node: [[] + id=node_3_dn, window=wnd_3_dn, addr=192.168.1.3, master=false, port_cs=41001, port_ss=41002, port_ce=41003, port_ceb=41004, sound=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found window: [[] + id=wnd_1_up, viewports="vp_1_up", postprocess="", fullscreen=false, WinX=0, WinY=0, ResX=1920, ResY=1080]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found window: [[] + id=wnd_1_dn, viewports="vp_1_dn", postprocess="", fullscreen=false, WinX=0, WinY=1080, ResX=1920, ResY=1080]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found window: [[] + id=wnd_2_up, viewports="vp_2_up", postprocess="", fullscreen=false, WinX=0, WinY=0, ResX=1920, ResY=1080]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found window: [[] + id=wnd_2_dn, viewports="vp_2_dn", postprocess="", fullscreen=false, WinX=0, WinY=1080, ResX=1920, ResY=1080]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found window: [[] + id=wnd_3_up, viewports="vp_3_up", postprocess="", fullscreen=false, WinX=0, WinY=0, ResX=1920, ResY=1080]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found window: [[] + id=wnd_3_dn, viewports="vp_3_dn", postprocess="", fullscreen=false, WinX=0, WinY=1080, ResX=1920, ResY=1080]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found viewport: [[] + id=vp_1_up, projection=proj_simple_1_up, camera=, x=0, y=0, width=1920, height=1080, buffer_ratio=1.000000, gpu_node=-1, allow_gpu_transfer=true, share=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found viewport: [[] + id=vp_1_dn, projection=proj_simple_1_dn, camera=, x=0, y=0, width=1920, height=1080, buffer_ratio=1.000000, gpu_node=-1, allow_gpu_transfer=true, share=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found viewport: [[] + id=vp_2_up, projection=proj_simple_2_up, camera=, x=0, y=0, width=1920, height=1080, buffer_ratio=1.000000, gpu_node=-1, allow_gpu_transfer=true, share=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found viewport: [[] + id=vp_2_dn, projection=proj_simple_2_dn, camera=, x=0, y=0, width=1920, height=1080, buffer_ratio=1.000000, gpu_node=-1, allow_gpu_transfer=true, share=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found viewport: [[] + id=vp_3_up, projection=proj_simple_3_up, camera=, x=0, y=0, width=1920, height=1080, buffer_ratio=1.000000, gpu_node=-1, allow_gpu_transfer=true, share=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found viewport: [[] + id=vp_3_dn, projection=proj_simple_3_dn, camera=, x=0, y=0, width=1920, height=1080, buffer_ratio=1.000000, gpu_node=-1, allow_gpu_transfer=true, share=false]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found projection: [[] + id=proj_simple_1_up, type=simple, params=[projection] id="proj_simple_1_up" type="simple" screen="scr_1_up"]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found projection: [[] + id=proj_simple_1_dn, type=simple, params=[projection] id="proj_simple_1_dn" type="simple" screen="scr_1_dn"]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found projection: [[] + id=proj_simple_2_up, type=simple, params=[projection] id="proj_simple_2_up" type="simple" screen="scr_2_up"]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found projection: [[] + id=proj_simple_2_dn, type=simple, params=[projection] id="proj_simple_2_dn" type="simple" screen="scr_2_dn"]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found projection: [[] + id=proj_simple_3_up, type=simple, params=[projection] id="proj_simple_3_up" type="simple" screen="scr_3_up"]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found projection: [[] + id=proj_simple_3_dn, type=simple, params=[projection] id="proj_simple_3_dn" type="simple" screen="scr_3_dn"]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found screen: [[[] + id=scr_1_up, parent=display_1_up, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1] + size=X=0.500 Y=0.300]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found screen: [[[] + id=scr_1_dn, parent=display_1_dn, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1] + size=X=0.500 Y=0.300]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found screen: [[[] + id=scr_2_up, parent=display_2_up, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1] + size=X=0.500 Y=0.300]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found screen: [[[] + id=scr_2_dn, parent=display_2_dn, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1] + size=X=0.500 Y=0.300]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found screen: [[[] + id=scr_3_up, parent=display_3_up, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1] + size=X=0.500 Y=0.300]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found screen: [[[] + id=scr_3_dn, parent=display_3_dn, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1] + size=X=0.500 Y=0.300]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Found camera: [[[] + id=camera_static, parent=socket_cam, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1] + eye_dist=0.064000, eye_swap=false, force_offset=0]
+[2021.02.02-12.12.06:027][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=cave_origin, parent=, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=eye_level, parent=cave_origin, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=column_2, parent=eye_level, loc=X=1.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=display_2_up, parent=column_2, loc=X=0.000 Y=0.000 Z=0.155, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=display_2_dn, parent=column_2, loc=X=0.000 Y=0.000 Z=-0.155, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=angle_1, parent=eye_level, loc=X=1.000 Y=-0.255 Z=0.000, rot=P=0.000000 Y=-30.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=column_1, parent=angle_1, loc=X=0.000 Y=-0.255 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=display_1_up, parent=column_1, loc=X=0.000 Y=0.000 Z=0.155, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=display_1_dn, parent=column_1, loc=X=0.000 Y=0.000 Z=-0.155, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=angle_3, parent=eye_level, loc=X=1.000 Y=0.255 Z=0.000, rot=P=0.000000 Y=30.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=column_3, parent=angle_3, loc=X=0.000 Y=0.255 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=display_3_up, parent=column_3, loc=X=0.000 Y=0.000 Z=0.155, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=display_3_dn, parent=column_3, loc=X=0.000 Y=0.000 Z=-0.155, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=socket_cam, parent=eye_level, loc=X=0.000 Y=0.000 Z=0.000, rot=P=0.000000 Y=0.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found scene node: [[] + id=wand, parent=, loc=X=0.000 Y=0.000 Z=1.000, rot=P=0.000000 Y=90.000000 R=0.000000, tracker_id=, tracker_ch=-1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found input device: [[] + id=MAxis, type=analog, params={[input] id="MAxis"    type="analog"  addr="Mouse0@127.0.0.1"}]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found input device: [[] + id=MButtons, type=buttons, params={[input] id="MButtons" type="buttons" addr="Mouse0@127.0.0.1"}]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found input device: [[] + id=KButtons, type=buttons, params={[input] id="KButtons" type="buttons" addr="Keyboard0@127.0.0.1"}]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found general: [[] + swap_sync_policy=1, ue4_input_sync_policy=1]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found network: [[] + cln_conn_tries_amount=10, cln_conn_retry_delay=1000, game_start_timeout=30000, barrier_wait_timeout=5000]
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Deserialization: ok
+[2021.02.02-12.12.06:028][  0]LogDisplayClusterConfiguration: Found custom: [][
+Custom argument 0: SampleArg1=SampleVal1
+
+Custom argument 1: SampleArg2=SampleVal2
+]
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching eye_level to cave_origin
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching column_2 to eye_level
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching display_2_up to column_2
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching display_2_dn to column_2
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching angle_1 to eye_level
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching column_1 to angle_1
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching display_1_up to column_1
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching display_1_dn to column_1
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching angle_3 to eye_level
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching column_3 to angle_3
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching display_3_up to column_3
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching display_3_dn to column_3
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching socket_cam to eye_level
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching camera_static to socket_cam
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching scr_1_up to display_1_up
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching scr_1_dn to display_1_dn
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching scr_2_up to display_2_up
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching scr_2_dn to display_2_dn
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching scr_3_up to display_3_up
+[2021.02.02-12.12.06:029][  0]LogDisplayClusterGame: Attaching scr_3_dn to display_3_dn
+[2021.02.02-12.12.06:030][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2021.02.02-12.12.06:030][  0]LogAIModule: Creating AISystem for world Main
+[2021.02.02-12.12.06:033][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.02-12.12.06:038][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.02.02-12.12.06:039][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.02-12.12.06:039][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2021.02.02-12.12.06:039][  0]LogFileHelpers: Loading map 'Main' took 0.111
+[2021.02.02-12.12.06:041][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.125
+[2021.02.02-12.12.06:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-12.12.06:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-12.12.06:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-12.12.06:243][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.02-12.12.06:256][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3791 classes and 972 folders.
+[2021.02.02-12.12.06:258][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.02-12.12.06:259][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.02-12.12.06:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.02-12.12.06:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.02.02-12.12.06:259][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.02-12.12.06:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.02-12.12.06:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.02.02-12.12.06:260][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.02-12.12.06:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.02-12.12.06:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.02.02-12.12.06:260][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.02-12.12.06:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.02-12.12.06:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.02.02-12.12.06:261][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.02-12.12.06:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.02-12.12.06:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.02.02-12.12.06:261][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.02-12.12.06:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.02-12.12.06:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.02.02-12.12.06:262][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.02-12.12.06:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.02-12.12.06:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.02.02-12.12.06:262][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.02-12.12.06:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.02-12.12.06:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.02.02-12.12.06:262][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.02-12.12.06:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.02-12.12.06:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.02.02-12.12.06:263][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.02-12.12.06:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.02-12.12.06:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.02.02-12.12.06:263][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.02-12.12.06:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.02-12.12.06:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.02.02-12.12.06:264][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.02-12.12.06:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.02-12.12.06:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.02.02-12.12.06:264][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.02-12.12.06:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.02-12.12.06:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.02.02-12.12.06:264][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.02-12.12.06:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.02-12.12.06:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.02.02-12.12.06:265][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.02-12.12.06:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.02-12.12.06:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.02.02-12.12.06:265][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.02-12.12.06:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.02-12.12.06:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.02.02-12.12.06:266][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.02-12.12.06:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.02-12.12.06:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.02.02-12.12.06:266][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.02-12.12.06:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.02-12.12.06:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.02.02-12.12.06:267][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.02-12.12.06:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.02-12.12.06:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.02.02-12.12.06:267][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.02-12.12.06:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.02-12.12.06:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.02.02-12.12.06:267][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.02-12.12.06:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.02-12.12.06:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.02.02-12.12.06:268][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.02-12.12.06:268][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:268][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.02-12.12.06:268][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.02.02-12.12.06:268][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.02-12.12.06:268][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:268][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.02-12.12.06:268][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.02.02-12.12.06:269][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.02-12.12.06:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.02-12.12.06:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.02.02-12.12.06:269][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.02-12.12.06:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.02-12.12.06:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.02.02-12.12.06:270][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.02-12.12.06:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.02-12.12.06:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.02-12.12.06:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.02.02-12.12.06:312][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.02-12.12.06:313][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.02.02-12.12.06:561][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.02.02-12.12.06:661][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.02-12.12.06:663][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.02-12.12.06:666][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.02-12.12.06:782][  0]LogRenderer: Reallocating scene render targets to support 1240x648 Format 10 NumSamples 1 (Frame:1).
+[2021.02.02-12.12.06:852][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.02-12.12.06:853][  0]LogLoad: (Engine Initialization) Total time: 6.94 seconds
+[2021.02.02-12.12.06:853][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.02-12.12.06:853][  0]LogInit: First time updating LLM stats...
+[2021.02.02-12.12.06:862][  0]LogDisplayClusterInputModule: DisplayClusterInput device has been initialized
+[2021.02.02-12.12.06:916][  0]LogAssetRegistry: Asset discovery search completed in 4.2291 seconds
+[2021.02.02-12.12.06:917][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.02.02-12.12.06:918][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.02-12.12.26:331][140]LogUdpMessaging: Initializing bridge on interface 192.168.0.237:0 to multicast group 230.0.0.1:6666.
+[2021.02.02-12.12.55:442][482]LogUdpMessaging: Warning: Invalid UDP Messaging Static Endpoint ''
+[2021.02.02-12.12.55:442][482]LogUdpMessaging: Initializing bridge on interface 192.168.0.237:0 to multicast group 230.0.0.1:6666.
+[2021.02.02-12.13.17:554][998]LogUdpMessaging: Initializing bridge on interface 192.168.0.237:0 to multicast group 230.0.0.1:6666.
+[2021.02.02-12.13.40:093][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2021.02.02-12.13.48:886][685]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.02-12.13.57:406][639]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2021.02.02-12.13.58:016][706]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2021.02.02-12.13.59:398][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.02-12.14.01:839][860]LogSlate: Window 'Save Content' being destroyed
+[2021.02.02-12.14.01:850][860]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.02-12.14.01:865][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.14.01:869][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.14.01:881][860]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Main8E2C4A1E4C89AEC5466C8492207762A6.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.14.01:881][860]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap', retrying in .5s...
+[2021.02.02-12.14.02:382][860]LogFileManager: Error: Error deleting file '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'.
+[2021.02.02-12.14.02:382][860]LogSavePackage: Error: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.14.02:384][860]EditorErrors: New page: Save Output
+[2021.02.02-12.14.02:384][860]EditorErrors: Warning: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.14.02:463][860]LogFileHelpers: Saving map 'Main' took 0.598
+[2021.02.02-12.14.10:590][860]LogSlate: Window 'Message' being destroyed
+[2021.02.02-12.14.10:594][860]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Main' (Main.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.02.02-12.14.10:625][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.14.10:628][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.02.02-12.14.10:641][860]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Main46DEF9264F7D2529AFECA68C999437FD.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.14.10:641][860]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap', retrying in .5s...
+[2021.02.02-12.14.11:142][860]LogFileManager: Error: Error deleting file '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'.
+[2021.02.02-12.14.11:142][860]LogSavePackage: Error: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.14.11:157][860]EditorErrors: New page: Save Output
+[2021.02.02-12.14.11:157][860]EditorErrors: Warning: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.14.11:159][860]LogFileHelpers: Saving map 'Main' took 0.565
+[2021.02.02-12.14.17:726][860]LogSlate: Window 'Message' being destroyed
+[2021.02.02-12.14.17:730][860]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Maps/Main' (Main.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.02.02-12.14.19:924][860]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.02.02-12.14.19:928][860]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Maps/Main
+[2021.02.02-12.14.19:934][860]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.02-12.14.33:165][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.14.35:645][410]LogSlate: Window 'Save Content' being destroyed
+[2021.02.02-12.14.35:694][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.14.35:701][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.02.02-12.14.35:713][410]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/MainA80A2CBD4DC845B0A06515A9D6D30C29.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.14.35:713][410]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap', retrying in .5s...
+[2021.02.02-12.14.36:213][410]LogFileManager: Error: Error deleting file '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'.
+[2021.02.02-12.14.36:213][410]LogSavePackage: Error: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.14.36:214][410]EditorErrors: New page: Save Output
+[2021.02.02-12.14.36:214][410]EditorErrors: Warning: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.14.36:217][410]LogFileHelpers: Saving map 'Main' took 0.523
+[2021.02.02-12.14.39:515][410]LogSlate: Window 'Message' being destroyed
+[2021.02.02-12.14.39:519][410]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Maps/Main' (Main.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.02.02-12.14.57:105][234]LogSlate: Window 'Source Control Login' being destroyed
+[2021.02.02-12.15.01:010][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.15.02:976][628]LogSlate: Window 'Save Content' being destroyed
+[2021.02.02-12.15.03:225][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.15.03:229][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.15.03:241][628]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Main75DA5DC84E33E84D8AA135ACEB679567.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.03:241][628]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap', retrying in .5s...
+[2021.02.02-12.15.03:741][628]LogFileManager: Error: Error deleting file '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'.
+[2021.02.02-12.15.03:741][628]LogSavePackage: Error: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.03:742][628]EditorErrors: New page: Save Output
+[2021.02.02-12.15.03:742][628]EditorErrors: Warning: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.03:745][628]LogFileHelpers: Saving map 'Main' took 0.520
+[2021.02.02-12.15.06:126][628]LogSlate: Window 'Message' being destroyed
+[2021.02.02-12.15.06:130][628]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Main' (Main.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.02.02-12.15.06:154][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.15.06:158][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.15.06:170][628]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/MainB0EB086E412D57D60887ADB47D3E24F8.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.06:170][628]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap', retrying in .5s...
+[2021.02.02-12.15.06:670][628]LogFileManager: Error: Error deleting file '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'.
+[2021.02.02-12.15.06:670][628]LogSavePackage: Error: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.06:688][628]EditorErrors: New page: Save Output
+[2021.02.02-12.15.06:688][628]EditorErrors: Warning: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.06:690][628]LogFileHelpers: Saving map 'Main' took 0.560
+[2021.02.02-12.15.07:997][628]LogSlate: Window 'Message' being destroyed
+[2021.02.02-12.15.08:001][628]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Main' (Main.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.02.02-12.15.08:021][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.15.08:041][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.02.02-12.15.08:053][628]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/MainE20BFC1F41FE03AD53EE6BB781F935D0.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.08:053][628]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap', retrying in .5s...
+[2021.02.02-12.15.08:554][628]LogFileManager: Error: Error deleting file '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'.
+[2021.02.02-12.15.08:554][628]LogSavePackage: Error: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.08:587][628]EditorErrors: New page: Save Output
+[2021.02.02-12.15.08:587][628]EditorErrors: Warning: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.08:590][628]LogFileHelpers: Saving map 'Main' took 0.588
+[2021.02.02-12.15.09:751][628]LogSlate: Window 'Message' being destroyed
+[2021.02.02-12.15.09:755][628]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Main' (Main.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.02.02-12.15.09:787][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.15.09:791][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.15.09:802][628]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Main38884D2147708EAE7D7685A655219D3E.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.09:803][628]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap', retrying in .5s...
+[2021.02.02-12.15.10:303][628]LogFileManager: Error: Error deleting file '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'.
+[2021.02.02-12.15.10:303][628]LogSavePackage: Error: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.10:320][628]EditorErrors: New page: Save Output
+[2021.02.02-12.15.10:320][628]EditorErrors: Warning: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.10:323][628]LogFileHelpers: Saving map 'Main' took 0.568
+[2021.02.02-12.15.12:128][628]LogSlate: Window 'Message' being destroyed
+[2021.02.02-12.15.12:133][628]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Maps/Main' (Main.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.02.02-12.15.12:154][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.15.12:158][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.15.12:169][628]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/MainCD9CA9E340AF3B3D6B09178EFB4A64A9.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.12:169][628]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap', retrying in .5s...
+[2021.02.02-12.15.12:670][628]LogFileManager: Error: Error deleting file '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'.
+[2021.02.02-12.15.12:670][628]LogSavePackage: Error: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.12:687][628]EditorErrors: New page: Save Output
+[2021.02.02-12.15.12:687][628]EditorErrors: Warning: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.12:689][628]LogFileHelpers: Saving map 'Main' took 0.557
+[2021.02.02-12.15.15:600][628]LogSlate: Window 'Message' being destroyed
+[2021.02.02-12.15.15:604][628]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Maps/Main' (Main.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/MegascansPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/MegascansPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/LensDistortion/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/LensDistortion/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/Composure/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/Composure/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/OpenColorIO/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/OpenColorIO/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:042][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/nDisplay/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/nDisplay/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/TextureShare/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/TextureShare/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.24:043][533]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.15.29:487][533]LogSlate: Window 'Submit Files' being destroyed
+[2021.02.02-12.15.29:976][533]LogSourceControl: commit successful: [main c4563cc] test
+[2021.02.02-12.15.30:133][533]SourceControl: [main c4563cc] test
+[2021.02.02-12.15.30:133][533]SourceControl:  1 file changed, 4 insertions(+)
+[2021.02.02-12.15.30:142][533]SourceControl: Commited [main c4563cc] test.
+[2021.02.02-12.15.45:523][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.15.47:359][289]LogSlate: Window 'Save Content' being destroyed
+[2021.02.02-12.15.47:590][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.15.47:594][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.02-12.15.47:605][289]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/MainCE9D585F47342BD19FE894A97BAB268D.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.47:606][289]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap', retrying in .5s...
+[2021.02.02-12.15.48:106][289]LogFileManager: Error: Error deleting file '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'.
+[2021.02.02-12.15.48:106][289]LogSavePackage: Error: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.48:107][289]EditorErrors: New page: Save Output
+[2021.02.02-12.15.48:107][289]EditorErrors: Warning: Error saving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.15.48:110][289]LogFileHelpers: Saving map 'Main' took 0.521
+[2021.02.02-12.16.12:404][289]LogSlate: Window 'Message' being destroyed
+[2021.02.02-12.16.12:408][289]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Maps/Main' (Main.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2021.02.02-12.16.14:127][289]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2021.02.02-12.16.14:131][289]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Maps/Main
+[2021.02.02-12.16.21:698][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.16.23:387][690]LogSlate: Window 'Save Content' being destroyed
+[2021.02.02-12.16.23:621][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.16.23:625][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.16.23:637][690]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/MainCB781F1945BE37FFC48D6D81A03825A6.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.16.23:640][690]LogFileHelpers: Saving map 'Main' took 0.018
+[2021.02.02-12.16.23:647][690]AssetCheck: New page: Asset Save: Main
+[2021.02.02-12.16.23:647][690]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/MegascansPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/MegascansPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/LensDistortion/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/LensDistortion/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/Composure/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/Composure/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/OpenColorIO/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/OpenColorIO/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:247][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/nDisplay/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/nDisplay/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/TextureShare/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/TextureShare/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:248][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.16.33:621][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.16.33:624][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.02-12.16.33:636][740]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Main1796AC3B4EB66ECB51BB1EA6C7A9D7A0.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.16.33:639][740]LogFileHelpers: Saving map 'Main' took 0.019
+[2021.02.02-12.16.38:889][740]LogSlate: Window 'Submit Files' being destroyed
+[2021.02.02-12.16.39:351][740]LogSourceControl: commit successful: [main 1462c7b] test2
+[2021.02.02-12.16.39:498][740]SourceControl: [main 1462c7b] test2
+[2021.02.02-12.16.39:498][740]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.02.02-12.16.39:498][740]SourceControl:  rewrite Content/Maps/Main.umap (69%)
+[2021.02.02-12.16.39:507][740]SourceControl: Commited [main 1462c7b] test2.
+[2021.02.02-12.16.39:555][741]AssetCheck: New page: Asset Save: Main
+[2021.02.02-12.16.39:555][741]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.02.02-12.16.55:444][575]LogSlate: Window 'Message Log' being destroyed
+[2021.02.02-12.16.55:449][575]LogSlate: Window 'Message Log' being destroyed
+[2021.02.02-12.18.46:339][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2021.02.02-12.18.52:540][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.02.02-12.18.54:300][575]LogSlate: Window 'Save Content' being destroyed
+[2021.02.02-12.18.54:514][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.18.54:518][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.18.54:530][575]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Main21E7FFD5465FE8C4E4B87DA358C4A3FB.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.18.54:533][575]LogFileHelpers: Saving map 'Main' took 0.019
+[2021.02.02-12.18.54:540][575]AssetCheck: New page: Asset Save: Main
+[2021.02.02-12.18.54:540][575]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.02.02-12.19.03:196][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:196][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/MegascansPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/MegascansPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:196][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/LensDistortion/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/LensDistortion/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:196][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:196][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/Composure/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/Composure/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:196][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/OpenColorIO/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Compositing/OpenColorIO/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:196][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:196][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:196][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/nDisplay/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/nDisplay/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/TextureShare/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/TextureShare/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:197][520]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/scffaa/Documents/Unreal Projects/nDispCollabPrj'
+[2021.02.02-12.19.03:547][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.02-12.19.03:551][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.02-12.19.03:563][520]LogSavePackage: Moving '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Saved/Main2D9AB6F24235A82BF905F0B384B589A8.tmp' to '../../../../../../Users/scffaa/Documents/Unreal Projects/nDispCollabPrj/Content/Maps/Main.umap'
+[2021.02.02-12.19.03:565][520]LogFileHelpers: Saving map 'Main' took 0.019
+[2021.02.02-12.19.21:483][520]LogSlate: Window 'Submit Files' being destroyed
+[2021.02.02-12.19.21:909][520]LogSourceControl: commit successful: [main 3c5fbb9] Adjusted
+[2021.02.02-12.19.22:056][520]SourceControl: [main 3c5fbb9] Adjusted
+[2021.02.02-12.19.22:056][520]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.02.02-12.19.22:065][520]SourceControl: Commited [main 3c5fbb9] Adjusted.
+[2021.02.02-12.19.22:114][521]AssetCheck: New page: Asset Save: Main
+[2021.02.02-12.19.22:114][521]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
